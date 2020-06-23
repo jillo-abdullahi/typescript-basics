@@ -1,1 +1,1 @@
-# typescript-basics
+A tutorial course on getting started with Typescript.
